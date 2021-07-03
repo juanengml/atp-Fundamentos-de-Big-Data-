@@ -1,12 +1,13 @@
-# atp-Fundamentos-de-Big-Data-
+# Atp-Fundamentos-de-Big-Data - Fundamentos de Big Data  - atp 
 
-Fundamentos de Big Data  - atp 
+<img align="right" src="https://i.pinimg.com/originals/bf/a9/28/bfa928ce10cac9daa4e96dad113891e1.gif" width="300"/>
 
 ## Bases Utilizadas 
 
 - https://datalake-operacoes-comerciais-abobora.s3.us-east-2.amazonaws.com/base_100_mil.csv 
 
 - https://datalake-operacoes-comerciais-abobora.s3.us-east-2.amazonaws.com/base_inteira.csv
+
 
 ## COMO RODAR 
 
@@ -46,7 +47,7 @@ Fundamentos de Big Data  - atp
 - hadoop fs -copyToLocal /juan.manoel/informacao8 .
 
 
-Copiar pastas do hadoop para o local
+### Copiar pastas do hadoop para o local
 
 no terminal do hadoop usar o comando pwd e copiar o caminho da pasta que quer copiar
 
